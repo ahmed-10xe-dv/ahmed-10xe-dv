@@ -4,10 +4,14 @@ I'm Ahmed Raza, an Electrical Engineering graduate with majors in Computer Scien
 
 ## 🔧 Technologies & Tools
 
+![RISC-V](https://img.shields.io/badge/-RISC--V-007396?style=flat-square&logo=riscv&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-41A837?style=flat-square&logoColor=white)
+![UVM](https://img.shields.io/badge/-UVM-430098?style=flat-square&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-003E54?style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🚀 Skills
@@ -15,20 +19,20 @@ I'm Ahmed Raza, an Electrical Engineering graduate with majors in Computer Scien
 - Digital Logic Design
 - Computer Architecture
 - RISC-V
+- Linux
+- Image & Signal Processing
 - Science Communication
 - Project Management
-- Data Mining
 - SQL
-- Power BI
-- Machine Learning
-- Communication
+
 
 ## 🌱 I'm currently learning
 
 - Verification & Design
 - Image Processing
 - Mathematics
-- Philosophy
+- RISC-V
+- UVM
 
 ## 👨‍💻 Professional Experience
 
