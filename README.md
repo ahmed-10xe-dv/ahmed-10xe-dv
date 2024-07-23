@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ahmed Raza, an Electrical Engineering graduate with majors in Computer Science from the University of Engineering and Technology, Lahore, Pakistan.
+I'm Ahmed Raza, Accociate Engineer at 10xEngineers, an Electrical Engineering graduate with majors in Computer Science from the University of Engineering and Technology, Lahore, Pakistan.
 
 ## 🔧 Technologies & Tools
 
